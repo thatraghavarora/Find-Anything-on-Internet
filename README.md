@@ -74,3 +74,6 @@ We welcome your pull requests to add new categories, improve structure, or sugge
 
 Always respect privacy, platform terms of service, and responsible usage. Let’s use our skills to secure the web, not exploit it.
 
+> ✍️ **Made by Raghav Arora**  
+> 💬 *"Age is just a number.*  
+> *You can do anything at any age."*
