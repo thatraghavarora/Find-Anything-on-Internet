@@ -1,4 +1,4 @@
-# 🌐 Find Anything on Internet — A Categorized Search Toolkit
+# 🌐 Find Anything on Internet — A Categorized Search Repo
 
 Welcome to the **Find Anything on Internet** repository — a centralized knowledge base focused on using advanced internet search techniques to locate specific types of open and useful data across the web.
 
