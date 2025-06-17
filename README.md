@@ -19,18 +19,14 @@ Each folder below contains curated strategies and search patterns to help you lo
 | `customer-leads-and-emails`       | Locate company contacts, emails, and business leads           |
 | `people-search-and-osint`         | Gather open-source data about individuals (social, profiles)  |
 | `movie-and-media-indexes`         | Explore publicly accessible movies, songs, series, subtitles  |
-| `exposed-applications`            | Identify dashboards, dev tools, admin portals, CMS            |
 | `unsecured-public-cameras`        | Find traffic cams, IP security cameras, and webcams           |
 | `cloud-and-config-leaks`          | Discover exposed config files, API keys, backup data          |
-| `free-course-coupons`             | Track latest free Udemy/Skillshare coupon indexes             |
 | `open-research-and-edu`           | Search research papers, university docs, journals             |
-| `public-api-directories`          | Find open APIs, Swagger docs, GraphQL endpoints               |
 | `vulnerable-servers-and-CVEs`     | Techniques to identify services vulnerable to known exploits  |
 | `ebooks-and-study-material`       | Locate PDFs, eBooks, cheat sheets, and academic content       |
 | `source-code-and-repos`           | Exposed source code, environment files, Git folders, etc.     |
-| `government-and-legal-docs`       | Access public data from gov, legal filings, or reports        |
-| `internal-tools-and-dev-pages`    | Dev-only panels, staging environments, debug pages            |
-| `iot-devices-and-status-pages`    | Printers, IP cameras, routers, server status panels           |
+
+
 
 ---
 
